@@ -1,0 +1,155 @@
+File Manifest for ICPSR 29282
+
+Ryff, Carol D., Teresa Seeman, and Maxine Weinstein. Midlife in the United
+States (MIDUS 2): Biomarker Project, 2004-2009. ICPSR29282-v10. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2022-12-14. http://doi.org/10.3886/ICPSR29282.v10
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    29282-descriptioncitation.pdf       -       -         -       2022-12-14  -
+
+    29282-related_literature.txt        -       -         -       daily       -
+
+    29282-manifest.txt                  -       -         -       daily       -
+
+    29282-Documentation-IRB.pdf         -       -         -       2018-10-31  663f5e62aff788d3cfdc761f4c144acb
+
+    29282-Documentation-MIDUS_Acknowledgment.pdf -       -         -       2018-10-31  d54b31ecd81d63fe4cab7f3821a963bc
+
+    29282-Documentation-README.pdf      -       -         -       2018-10-31  83e3e96d7cb6884340852b8f0a3a8668
+
+    29282-Documentation-datafile_notes.pdf -       -         -       2018-10-31  68b03b9b0cefb3e48b3aaeb47bebed42
+
+    29282-Documentation-midus_midja_medication_documentation.pdf -       -         -       2022-12-14  c4e5b975fdfb3bd73ae6c17a4a17db6c
+
+    29282-Documentation-p4summary.pdf   -       -         -       2019-03-27  113acb2322c9ec3fb90495c194babc91
+
+
+DS0001 Aggregated Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    29282-0001-Codebook-ICPSR.pdf       -       -         -       2022-12-14  f76144de8257874f76eab5930c99ebb0
+
+    29282-0001-Codebook-MIDUS_DDI.pdf   -       -         -       2019-03-27  dee3cd9d1531a061ae1db29ccc171177
+
+    29282-0001-Data.dta                 -       1,255     3228    2022-12-14  d87da84c465d708b210da3fdfdf04f63
+
+    29282-0001-Data.rda                 -       1,255     3228    2022-12-14  0c58942be643af100af49298eb685779
+
+    29282-0001-Data.sav                 -       1,255     3228    2022-12-14  1244fb05e449004d228ef6f8cf726d5a
+
+    29282-0001-Data.stc                 -       1,255     3228    2022-12-14  3f622c21e628e440b0c234a0f9edc16a
+
+    29282-0001-Data.tsv                 -       1,255     3228    2022-12-14  5cdc9b052366bb6352842899d8672ea0
+
+    29282-0001-Data.txt                 10733   1,255     3228    2022-12-14  6c463a7f8cc11b271d31f05436d4d0f1
+
+    29282-0001-Documentation-Blood_Urine.pdf -       -         -       2019-03-27  aa210325c0b0003b9db592103eb172f4
+
+    29282-0001-Documentation-Medication.pdf -       -         -       2022-12-14  5c4bfbbf89b1b7bf68e58e788bff190d
+
+    29282-0001-Documentation-bone_review.pdf -       -         -       2019-03-27  22aef26fd1912669324c4d9cb824770e
+
+    29282-0001-Documentation-physical_exam.pdf -       -         -       2022-12-14  8e29a4ab5803dae9d1288ce709900b1c
+
+    29282-0001-Documentation-psychophysio.pdf -       -         -       2022-12-14  16f8d480af786af8162abc241eab6dee
+
+    29282-0001-Documentation-scales.pdf -       -         -       2019-03-27  f981de1a01f038af92620966e802256a
+
+    29282-0001-Documentation-sleep.pdf  -       -         -       2022-12-14  5b7f3e2c9ef79bd18ab94f55c1969b32
+
+    29282-0001-Questionnaire-SAQ.pdf    -       -         -       2018-10-31  ec16ac8177583eadf59dfc7a5e6926d2
+
+    29282-0001-Questionnaire-medical_history.pdf -       -         -       2018-10-31  1de4b5a3df8f19cfbed1c2958e344218
+
+    29282-0001-Setup.dct                -       -         -       2022-12-14  09a3bf52c01bf3d508c97aef5b72b2cc
+
+    29282-0001-Setup.do                 -       -         -       2022-12-14  1cb878017d6c891e8366be063fe09490
+
+    29282-0001-Setup.sas                -       -         -       2022-12-14  7fd0e4c76ec2568191fafdfb44ef65af
+
+    29282-0001-Setup.sps                -       -         -       2022-12-14  08b30169927dd70600a85a74c8093d2a
+
+    29282-0001-Supplemental_syntax.do   -       -         -       2022-12-14  00d149266b517f7f44276793901516e0
+
+    29282-0001-Supplemental_syntax.sas  -       -         -       2022-12-14  5d9a903796706eb4695538cdda3a2139
+
+
+DS0002 Stacked Medication Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    29282-0002-Codebook-ICPSR.pdf       -       -         -       2022-12-14  69dab1e73cf11729d5266c370d5cad5b
+
+    29282-0002-Codebook-MIDUS_DDI.pdf   -       -         -       2018-10-31  a518d95a893a432179ff50e144751599
+
+    29282-0002-Data.dta                 -       7,174     114     2022-12-14  dc08a662f4186aaaebc9c228d71cee9b
+
+    29282-0002-Data.rda                 -       7,174     114     2022-12-14  83f61295d1c362e590b64722ad4d2e8c
+
+    29282-0002-Data.sav                 -       7,174     114     2022-12-14  fc17cea57368e0786c6ec3fa440c5d63
+
+    29282-0002-Data.stc                 -       7,174     114     2022-12-14  ec2c12046444e300d7f35661a5fd1036
+
+    29282-0002-Data.tsv                 -       7,174     114     2022-12-14  6c1b48a924e9b70a50edcd9fea835c93
+
+    29282-0002-Data.txt                 273     7,174     114     2022-12-14  4307f69557b3a48720641a893d0a0221
+
+    29282-0002-Setup.dct                -       -         -       2022-12-14  9e07e36961fc3f807f11e6c39e7e37cc
+
+    29282-0002-Setup.do                 -       -         -       2022-12-14  d48d2264e0fe7bde76717cb7c640cdff
+
+    29282-0002-Setup.sas                -       -         -       2022-12-14  161b92d2dbe4d8afac91b3110878d5c0
+
+    29282-0002-Setup.sps                -       -         -       2022-12-14  262627bca8313b3b2967f9771ae7399e
+
+    29282-0002-Supplemental_syntax.do   -       -         -       2022-12-14  56719e1565daba026814a40d25ce8112
+
+    29282-0002-Supplemental_syntax.sas  -       -         -       2022-12-14  cb4210a914f0ceb54d8c483c5c125d75
+
+
+Version History
+
+2022-12-14 This collection was fully curated.  2019-03-27 This collection
+was updated to include MIDUS-MIDJA Medication Data Documentation.  2018-10-
+31 This collection is being updated to include 700+ new variables in the
+Aggregated Data file. An additional dataset now accompanies this release.
+Please note this is a stacked file. That is, there is one row per
+medication reported, thus the 'N' indicates the total number of
+medications, not the number of cases. Supporting documentation is included
+and has also been updated.  2017-11-21 This collection is being updated,
+per request from the PI, to reflect a title change; the corresponding
+downloadable files are only being updated to reflect the title change,
+where applicable.  2013-12-20 Variable formats were edited per P.I.
+request; the data files have been updated.  2013-05-02 The Acknowledgement
+for MIDUS II Biomarker Project (P4) Publications and the M2_P4 Biomarker
+IRB Approval and Certificate of Confidentiality were added to the
+collection  2013-04-23 Technical corrections were made to data formats.
+2013-01-11 The study documentation has been updated, in particular, details
+about new variables have been added to: (1) the Blood, Urine, and Saliva
+documentation; (2) the Documentation of Scales and Constructed Variables;
+(3) the Psychophysiology Protocol Documentation; and (4) the DataFile
+Notes. New variables have been added to the data file including: (1) new
+biomarkers Insulin, Glucose, and Insulin-like Growth Factor 1 (IGF-1) along
+with an indicator of insulin resistance (HOMAIR); (2) a set of filter
+variables for the Psychophysiology data; (3) a new administrative Bone Scan
+variable; and (4) newly coded additional prescription, over-the-counter,
+and alternative medication data. Further details about the new variables
+and changes to documentation can be found in the README document available
+for download from the ICPSR and NACDA Web sites. The data and documentation
+files that have been uploaded are intended to replace the existing versions
+at ICPSR. Extant files that are not being replaced should remain available.
+2011-10-25 The document titled DDI codebook has been renamed Codebook.
+Question text has been incorporated with this study and is included in the
+updated SDA for this study. Lastly, a number of undocumented missing values
+codes have been updated and included within this data release.
