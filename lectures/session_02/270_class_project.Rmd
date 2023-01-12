@@ -1,6 +1,8 @@
 ---
 title: "BST 270 In-class Project"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## Introduction
@@ -28,10 +30,14 @@ library(forcats)
 
 ## Load and combine data
 ```{r}
-load("../session_01/midus_data_icpsr_04652_20221222/DS0001/04652-0001-Data.rda") # load MIDUS2 interview/questionnaire data
-load("../session_01/midus_data_icpsr_29282_20221222/DS0001/29282-0001-Data.rda") # load MIDUS2 biomarker data
+setwd("/Volumes/GoogleDrive/My Drive/Reproducible Data Science/BST270-Winter2023/lectures/")
+# load("../session_01/midus_data_icpsr_04652_20221222/DS0001/04652-0001-Data.rda") # load MIDUS2 interview/questionnaire data
+load("ICPSR_04652/DS0001/04652-0001-Data.rda")
+# load("../session_01/midus_data_icpsr_29282_20221222/DS0001/29282-0001-Data.rda") # load MIDUS2 biomarker data
+load("ICPSR_29282/DS0001/29282-0001-Data.rda")
 df <- inner_join(da29282.0001, da04652.0001, by="M2ID") # merge the two dataframes using an inner join
 dim(df)
+setwd("~/Desktop/")
 ```
 We have a total of 1,054 participants after merging the data frames. 
 
@@ -205,7 +211,13 @@ We get to 999 individuals.
 
 
 ```{r}
-
+setwd("/Users/jodeciwheaden/Desktop/")
+# Outcome: Optimism variable -> B1SORIEN
+Optimism_Score <- df$B1SORIEN
+# hist(Optimism_Score)
+p<-ggplot(df, aes(x=Optimism_Score )) + 
+  geom_histogram(color="black", fill="white")
+p
 ```
 
 
